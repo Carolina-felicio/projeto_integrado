@@ -1,3 +1,3 @@
 # projeto_integrado
 projeto...
-Erick de Oliveira Fernandes - 1900550
+Erica Herculano Ribeiro - 1900241
