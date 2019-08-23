@@ -1,4 +1,6 @@
 # Melhores Atletas  
 Rafael Nadal 
 Cesar Cielo 
-Arthur Nory
+Arthur Nory  
+Diego Hipolito  
+Lionel Messi
